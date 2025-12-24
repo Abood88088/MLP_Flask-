@@ -35,6 +35,41 @@ Model, araç yaşı, motor hacmi, kilometre, beygir gücü ve marka gibi bağım
 
 ---
 
+Harika! İki ekran görüntüsünü README dosyana entegre edecek şekilde aşağıdaki bölümü hazırladım. Markdown formatında, görsel açıklamalarıyla birlikte modern ve düzenli bir yapı sunuyor:
+
+---
+
+## 🖼️ Uygulama Arayüzü  
+
+Aşağıda, Flask tabanlı web arayüzün nasıl çalıştığını gösteren iki örnek ekran görüntüsü yer almaktadır. Kullanıcı, araç bilgilerini girerek tahmini fiyatı anlık olarak görebilmektedir.
+
+### 🔧 Örnek 1 – BMW (2020 Model)  
+Kullanıcı aşağıdaki bilgileri girmiştir:  
+- Yıl: 2020  
+- Motor Hacmi: 3.0 L  
+- Kilometre: 40,000 km  
+- Beygir Gücü: 300 HP  
+- Marka: BMW  
+
+Tahmin edilen fiyat: **💰 927,791 TL**
+
+![BMW Tahmin Ekranı](./attachments/HxyMxUfzhkL5GSvjPYy3g.png)
+
+---
+
+### 🔧 Örnek 2 – Mercedes (2021 Model)  
+Kullanıcı aşağıdaki bilgileri girmiştir:  
+- Yıl: 2021  
+- Motor Hacmi: 2.0 L  
+- Kilometre: 30,000 km  
+- Beygir Gücü: 190 HP  
+- Marka: Mercedes  
+
+Tahmin edilen fiyat: **💰 824,249 TL**
+
+![Mercedes Tahmin Ekranı](./attachments/J9vngqMmYjBRUeDB1UPVE.png)
+
+---
 ## 🖥️ Uygulama Kullanımı  
 
 ### 1️⃣ Gerekli Kütüphaneler  
