@@ -49,7 +49,8 @@ Kullanıcı aşağıdaki bilgileri girmiştir:
 
 Tahmin edilen fiyat: **💰 927,791 TL**
 
-<img width="1919" height="906" alt="Ekran görüntüsü 2025-12-24 051225" src="https://github.com/user-attachments/assets/f8efe352-d18c-4853-b02b-f135a0a09cb1" />
+<img width="1919" height="906" alt="Ekran görüntüsü 2025-12-24 051046" src="https://github.com/user-attachments/assets/d39cb6ac-cdba-4a21-b6f6-247cc60e982b" />
+
 
 
 ---
