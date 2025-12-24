@@ -35,10 +35,6 @@ Model, araç yaşı, motor hacmi, kilometre, beygir gücü ve marka gibi bağım
 
 ---
 
-Harika! İki ekran görüntüsünü README dosyana entegre edecek şekilde aşağıdaki bölümü hazırladım. Markdown formatında, görsel açıklamalarıyla birlikte modern ve düzenli bir yapı sunuyor:
-
----
-
 ## 🖼️ Uygulama Arayüzü  
 
 Aşağıda, Flask tabanlı web arayüzün nasıl çalıştığını gösteren iki örnek ekran görüntüsü yer almaktadır. Kullanıcı, araç bilgilerini girerek tahmini fiyatı anlık olarak görebilmektedir.
@@ -53,7 +49,8 @@ Kullanıcı aşağıdaki bilgileri girmiştir:
 
 Tahmin edilen fiyat: **💰 927,791 TL**
 
-![BMW Tahmin Ekranı](./attachments/HxyMxUfzhkL5GSvjPYy3g.png)
+<img width="1919" height="906" alt="Ekran görüntüsü 2025-12-24 051225" src="https://github.com/user-attachments/assets/f8efe352-d18c-4853-b02b-f135a0a09cb1" />
+
 
 ---
 
@@ -67,7 +64,7 @@ Kullanıcı aşağıdaki bilgileri girmiştir:
 
 Tahmin edilen fiyat: **💰 824,249 TL**
 
-![Mercedes Tahmin Ekranı](./attachments/J9vngqMmYjBRUeDB1UPVE.png)
+<img width="1919" height="898" alt="Ekran görüntüsü 2025-12-24 051323" src="https://github.com/user-attachments/assets/95576c79-f15c-4dcb-ab8e-ece402d48b08" />
 
 ---
 ## 🖥️ Uygulama Kullanımı  
